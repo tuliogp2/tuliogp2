@@ -1,6 +1,6 @@
 <h1>Hello! I'm Tulio Goulart <img src="https://raw.githubusercontent.com/KaueMarques/KaueMarques/master/hi.gif" width="30px"></h1>
 
-- :fire: FullStack developper Jr.
+<h3>- :fire: FullStack developper Jr.</h3>
 
 
 ##  🛠 &nbsp;Technologies
