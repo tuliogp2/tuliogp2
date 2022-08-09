@@ -26,9 +26,11 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tuliogp2&show_icons=true&theme=dark" alt="tuliogp2 stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=tuliogp2&show_icons=true&theme=dark" alt="tuliogp2 stats"/>
+
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliogp2&theme=synthwave" alt="tuliogp2 most languages"/>
 
 </p>
 
