@@ -12,6 +12,8 @@
 <img align="center" alt="CSS" SRC="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 <img align="center" alt="JS" SRC="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  
+<img align="center" alt="Typescript" SRC="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)">
 
 <img align="center" alt="React" SRC="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
@@ -22,6 +24,7 @@
 <img align="center" alt="Flask" SRC="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 
 <img align="center" alt="Django" SRC="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+ 
 </p>
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -33,5 +36,9 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliogp2&theme=synthwave" alt="tuliogp2 most languages"/>
 
 </p>
+
+## &nbsp;Social Links
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulio-goulart-pereira/)
 
 <h1> Under construction...</h1>
