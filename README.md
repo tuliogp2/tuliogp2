@@ -3,9 +3,9 @@
 <h3>- :fire: FullStack developer Jr.</h3>
 <h3>- :computer: Best Projects:</h3>
 
-[Maze Game](https://github.com/Kenzie-Academy-Brasil-Developers/maze-game)<br>
-[Hungry Traveler](https://github.com/hericfelix/hungry-traveler)<br>
-[Habit Management App](https://github.com/Christian-mf25/projeto-gestao-de-habitos)<br>
+[Maze Game](https://github.com/Kenzie-Academy-Brasil-Developers/maze-game)[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kenzie-academy-brasil-developers.github.io/maze-game/)<br><br>
+[Hungry Traveler](https://github.com/hericfelix/hungry-traveler)[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hungry-traveler.vercel.app/)<br><br>
+[Habit Management App](https://github.com/Christian-mf25/projeto-gestao-de-habitos) [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://projeto-gestao-de-habitos-six.vercel.app/)<br><br>
 [Backend Rent a Car](https://github.com/raissalst/carrentals)
 
 
