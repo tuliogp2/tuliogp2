@@ -1,6 +1,12 @@
 <h1>Hello! I'm Tulio Goulart <img src="https://raw.githubusercontent.com/KaueMarques/KaueMarques/master/hi.gif" width="30px"></h1>
 
 <h3>- :fire: FullStack developer Jr.</h3>
+<h3>- :computer: Best Projects:</h3>
+
+[Maze Game](https://github.com/Kenzie-Academy-Brasil-Developers/maze-game)<br>
+[Hungry Traveler](https://github.com/hericfelix/hungry-traveler)<br>
+[Habit Management App](https://github.com/Christian-mf25/projeto-gestao-de-habitos)<br>
+[Backend Rent a Car](https://github.com/raissalst/carrentals)
 
 
 ##  🛠 &nbsp;Technologies
@@ -40,5 +46,3 @@
 ## &nbsp;Social Links
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulio-goulart-pereira/)
-
-<h1> Under construction...</h1>
